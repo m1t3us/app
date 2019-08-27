@@ -58,9 +58,9 @@ body {
   font-size: 1rem;
   font-weight: 600;
   line-height: 2.5;
-  color: #f8f5f5;
+  color: #000000;
   text-align: left;
-  background-color: rgb(5, 0, 0);
+  background-color: rgb(255, 255, 255);
 }
 
 [tabindex="-1"]:focus {
@@ -4557,7 +4557,7 @@ input[type="button"].btn-block {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: rgb(12, 0, 0);
+  background-color: rgb(255, 255, 255);
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
